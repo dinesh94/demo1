@@ -3,3 +3,9 @@ git clone https://github.com/dinesh94/demo1.git
 
 git status
 
+git add git-commands.txt
+git commit -m "First commit"
+
+git push
+
+ssh-keygen -t ed25519 -C "nbhavsar150@gmail.com"
