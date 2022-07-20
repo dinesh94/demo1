@@ -1,0 +1,5 @@
+git clone https://github.com/dinesh94/demo1.git 
+- Clone the existing code 
+
+git status
+
